@@ -18,11 +18,11 @@ To experiment with Google Colab and basic DL concepts to create a basic model fo
 <u>***How to use***</u>
 
 1. **[Editing]** Download and Open Quickdraw.ipynb in Google Colab 
-2. **[Viewing]** View [here]()
+2. **[Viewing]** View [here](https://colab.research.google.com/drive/1-EJuskp4mXIa9LYXFWR-yHRaHxZJlFxi?usp=sharing)
 
 <u>***Objective***</u>
 
-To create a model similar to that of [Google's Quickdraw game](https://quickdraw.withgoogle.com/) for selected classes and to experiment with alternate ML models and data pre-processing methods.
+To create a model like that of [Google's Quickdraw game](https://quickdraw.withgoogle.com/) for selected classes and to experiment with alternate ML models and data pre-processing methods.
 
 <u>Image: Subset of Quickdraw Classes</u>
 
