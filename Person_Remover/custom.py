@@ -97,7 +97,7 @@ class CustomDataset(utils.Dataset):
             # the outline of each object instance. There are stores in the
             # shape_attributes (see json format above)
             polygons = [r['shape_attributes'] for r in a['regions']]
-            objects = [s['region_attributes']['objects'] for s in a['regions']] 
+            objects = [s['region_attributes']['names'] for s in a['regions']] 
             print("objects:",objects)
             name_dict = {"person": 1}
             # key = tuple(name_dict)
